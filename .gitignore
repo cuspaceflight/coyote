@@ -1,0 +1,49 @@
+# ignore python files
+**/__pycache__/
+.pyc
+*.pyc
+*.pyd
+*.egg-info/
+build
+dist
+
+# vscode files
+.vscode/*
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# clangd LSP files
+.cache/
+
+## CMake
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+## Other
+
+**/*.csv
+**/*.bin
+bin/*
+
+# ignore build files
+*.so
+
+# ignore vim swapfiles
+*.swp
+
