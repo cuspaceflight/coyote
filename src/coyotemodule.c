@@ -2,7 +2,7 @@
 *                                    COYOTE                                    *
 *                          LOW-DENSITY PARITY CHECKING                         *
 *                                                                              *
-*                        COPYRIGHT (C) 2022 H.E. FRANKS                        *
+*                   COPYRIGHT (C) 2022 H.E. FRANKS, A. GREIG                   *
 *                       CAMBRIDGE UNIVERSITY SPACEFLIGHT                       *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
